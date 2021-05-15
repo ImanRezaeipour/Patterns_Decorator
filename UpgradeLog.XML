@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Patterns_Decorator">
+</Property><Property Name="Solution File" Value="D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\Patterns_Decorator.sln">
+</Property><Property Name="Date" Value="Wednesday, December 28, 2011">
+</Property><Property Name="Time" Value="8:50:39 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Patterns_Decorator" Source="Patterns_Decorator.csproj" Description="Project file successfully backed up as D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\Backup\Patterns_Decorator.csproj">
+</Event><Event ErrorLevel="0" Project="Patterns_Decorator" Source="Car.cs" Description="File successfully backed up as D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\Backup\Car.cs">
+</Event><Event ErrorLevel="0" Project="Patterns_Decorator" Source="CarOption.cs" Description="File successfully backed up as D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\Backup\CarOption.cs">
+</Event><Event ErrorLevel="0" Project="Patterns_Decorator" Source="FerrariSpider.cs" Description="File successfully backed up as D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\Backup\FerrariSpider.cs">
+</Event><Event ErrorLevel="0" Project="Patterns_Decorator" Source="ICar.cs" Description="File successfully backed up as D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\Backup\ICar.cs">
+</Event><Event ErrorLevel="0" Project="Patterns_Decorator" Source="OptionAlloyWheels.cs" Description="File successfully backed up as D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\Backup\OptionAlloyWheels.cs">
+</Event><Event ErrorLevel="0" Project="Patterns_Decorator" Source="OptionLeather.cs" Description="File successfully backed up as D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\Backup\OptionLeather.cs">
+</Event><Event ErrorLevel="0" Project="Patterns_Decorator" Source="OptionTurbo.cs" Description="File successfully backed up as D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\Backup\OptionTurbo.cs">
+</Event><Event ErrorLevel="0" Project="Patterns_Decorator" Source="Program.cs" Description="File successfully backed up as D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\Backup\Program.cs">
+</Event><Event ErrorLevel="2" Project="Patterns_Decorator" Source="Properties\AssemblyInfo.cs" Description="Failed to backup file as D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Patterns_Decorator" Source="Patterns_Decorator.cd" Description="File successfully backed up as D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\Backup\Patterns_Decorator.cd">
+</Event><Event ErrorLevel="0" Project="Patterns_Decorator" Source="Patterns_Decorator.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Patterns_Decorator" Source="Patterns_Decorator.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Patterns_Decorator" Source="Patterns_Decorator.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

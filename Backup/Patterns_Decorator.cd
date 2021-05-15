@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Patterns_Decorator.Car">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Car.cs</FileName>
+      <HashCode>AAAAAAAAACAgAAAAACAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Patterns_Decorator.CarOption">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CarOption.cs</FileName>
+      <HashCode>AAAAAAAAACAgAAAAACAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="Patterns_Decorator.OptionTurbo">
+    <Position X="2.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>OptionTurbo.cs</FileName>
+      <HashCode>AAAAAAAAACAgAAAEAAAAABAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="Patterns_Decorator.FerrariSpider">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>FerrariSpider.cs</FileName>
+      <HashCode>AAAAAAAAACAgAAAEAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="Patterns_Decorator.OptionAlloyWheels">
+    <Position X="4" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>OptionAlloyWheels.cs</FileName>
+      <HashCode>AAAAAAAAACAgAAAEAAAAABAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="Patterns_Decorator.OptionLeather">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>OptionLeather.cs</FileName>
+      <HashCode>AAAAAAAAACAgAAAEAAAAABAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Interface Name="Patterns_Decorator.ICar">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ICar.cs</FileName>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+</ClassDiagram>

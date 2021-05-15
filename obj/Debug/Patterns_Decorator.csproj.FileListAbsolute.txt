@@ -1,0 +1,5 @@
+D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\obj\Debug\ResolveAssemblyReference.cache
+D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\bin\Debug\Patterns_Decorator.exe
+D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\bin\Debug\Patterns_Decorator.pdb
+D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\obj\Debug\Patterns_Decorator.exe
+D:\ebook\Design Paterns\Decorator\PatternsIntro_Decorator\obj\Debug\Patterns_Decorator.pdb
